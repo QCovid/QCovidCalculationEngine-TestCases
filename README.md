@@ -1,0 +1,2 @@
+# QCovidCalculationEngine-TestCases
+These test cases have been provided by the University of Oxford as part of the CE Marking process for QCovid® Calculation Engine to validate it against the QCovid® algorithm as published in the BMJ. Before any CE Marked release of QCovid® Calculation Engine, all test cases are executed and must be passed. The same test cases have been used by licensees of the CE Marked version to ensure it is functioning correctly as installed on their own platforms and in their specific software environments.
